@@ -14,5 +14,7 @@ namespace SomeGitExamples
             settings.AutoRedirectMode = RedirectMode.Permanent;
             routes.EnableFriendlyUrls(settings);
         }
+
+
     }
 }
