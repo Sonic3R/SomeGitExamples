@@ -11,6 +11,7 @@
 </head>
 <body>
     <form id="form112" runat="server">
+        <p>Test</p>
         <div>
             <h1>Mobile Master Page</h1>
             <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
@@ -22,6 +23,5 @@
     </form>
     <a href="#">Test</a>
     <br />
-    <a href="javascript:void(0)">Anchor</a>
 </body>
 </html>
