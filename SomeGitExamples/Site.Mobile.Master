@@ -19,7 +19,9 @@
         <friendlyUrls:ViewSwitcher runat="server" />
     </div>
     </form>
-    <p>This is a test</p>
-    <br />
+    <div>
+        <span>This is a local site branch</span>
+        <a href="#">Click here !</a>
+    </div>
 </body>
 </html>
