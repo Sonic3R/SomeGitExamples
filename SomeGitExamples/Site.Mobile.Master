@@ -19,5 +19,6 @@
         <friendlyUrls:ViewSwitcher runat="server" />
     </div>
     </form>
+    <form></form>
 </body>
 </html>
