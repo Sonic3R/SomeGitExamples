@@ -19,8 +19,5 @@
         <friendlyUrls:ViewSwitcher runat="server" />
     </div>
     </form>
-    <a href="#">Test</a>
-    <br />
-    <a href="javascript:void(0)">Anchor</a>
 </body>
 </html>
