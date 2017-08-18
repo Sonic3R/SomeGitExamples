@@ -21,7 +21,9 @@
             <friendlyUrls:ViewSwitcher runat="server" />
         </div>
     </form>
-    <a href="#">Test</a>
+    <div>
+        <p>This is paragraph</p>
+    </div>
     <br />
 </body>
 </html>
